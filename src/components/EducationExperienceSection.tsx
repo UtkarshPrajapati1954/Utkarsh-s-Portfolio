@@ -140,6 +140,19 @@ const timelineData: TimelineItem[] = [
   {
     id: '2',
     type: 'experience',
+    title: 'Junior Developer',
+    institution: 'SHIVALIK TRANSPORT PTY LTD, Perth, WA',
+    location: 'Remote - Nadiad, Gujarat',
+    period: 'Dec-2022 - Dec-2024',
+    description: 'Worked as a Junior Developer on a part-time, remote basis with SHIVALIK TRANSPORT PTY LTD while pursuing a Bachelor of Engineering in Information Technology. Gained hands-on experience in managing and analysing transport-related data, preparing reports using Microsoft Excel, and working with data from an AWS-hosted MySQL database. Supported web development activities and contributed to an ASP.NET and C#-based system through application support, feature enhancements, and debugging, demonstrating steady technical growth and effective balance between academic and professional responsibilities.',
+    achievements: ['Hands-on learning', 'Web Development' ],
+    images: [
+      'https://res.cloudinary.com/dylgc2jrt/image/upload/v1769859266/j8xxeptxiu4jmqzqq8te.png'
+    ]
+  },
+  {
+    id: '3',
+    type: 'experience',
     title: 'Software Developer Intern',
     institution: 'ScriptMatrix Web Services',
     location: 'Vadodara, Gujarat.',
@@ -151,7 +164,7 @@ const timelineData: TimelineItem[] = [
     ]
   },
   {
-    id: '3',
+    id: '4',
     type: 'experience',
     title: 'Software Developer Trainee',
     institution: 'ScriptMatrix Web Services',
@@ -164,7 +177,7 @@ const timelineData: TimelineItem[] = [
     ]
   },
   {
-    id: '4',
+    id: '5',
     type: 'experience',
     title: 'Software Developer [.Net(c#)]',
     institution: 'ScriptMatrix Web Services',
