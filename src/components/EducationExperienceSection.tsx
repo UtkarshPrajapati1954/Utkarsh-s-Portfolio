@@ -134,7 +134,7 @@ const timelineData: TimelineItem[] = [
     description: 'Specialized in Information Technology with focus on web technologies and software engineering.',
     achievements: ['CGPA:  8.18 / 10.0'],
     images: [
-      'https://res.cloudinary.com/dmf29idne/image/upload/v1769350644/e3dwpitti62jryvqltw3.jpg'
+      'https://res.cloudinary.com/dv2pntqsr/image/upload/v1770481957/joixzkwv6ubfhfimheu5.jpg'
     ]
   },
   {
@@ -179,14 +179,14 @@ const timelineData: TimelineItem[] = [
   {
     id: '5',
     type: 'experience',
-    title: 'Software Developer [.Net(c#)]',
+    title: 'Full Stack Developer [.Net(c#)]',
     institution: 'ScriptMatrix Web Services',
     location: 'Vadodara, Gujarat.',
     period: 'Nov-2025 - Jan-2026',
     description: 'Worked as a Software Developer handling ASP.NET, C#, MySQL Server, HTML, CSS, Bootstrap, and JavaScript, with strong involvement in full-stack development. Contributed to API development and integration (RESTful APIs) for seamless communication between frontend and backend systems. Participated in application architecture design, database management, user workflow implementation, and client communication, while continuously enhancing problem-solving skills, clean coding practices, API security, and team collaboration.',
     achievements: ['Full-Stack Development', 'Web API', 'User Workflow Implementation', 'Clean Coding Practices', 'RESTful API Development & Integration','Problem-Solving', 'Client Communication'],
     images: [
-      'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&q=80'
+      'https://res.cloudinary.com/dv2pntqsr/image/upload/v1770481962/lio2f8buvxbdjaruegja.jpg'
     ]
   }
 ];

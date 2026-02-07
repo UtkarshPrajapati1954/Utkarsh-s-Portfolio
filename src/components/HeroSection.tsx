@@ -46,7 +46,7 @@ export const HeroSection = () => {
           Hi! I'm{' '}
           <span className="gradient-text glow-text">Utkarsh</span>,
           <br />
-          <span className="text-muted-foreground">A Software Developer</span>
+          <span className="text-muted-foreground">A Full Stack Developer </span>
         </h1>
 
         {/* Description */}
@@ -54,9 +54,7 @@ export const HeroSection = () => {
           className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto mb-10 leading-relaxed fade-in-up"
           style={{ animationDelay: '0.2s' }}
         >
-          I am a self-motivated and solutions-oriented Software Developer with a strong commitment 
-          to continuous learning and innovation. I specialize in building modern, efficient, and 
-          scalable web applications.
+         I am a self-motivated and solutions-oriented Full Stack Developer with a strong commitment to continuous learning and innovation. I specialize in building modern, efficient, and scalable web applications.
         </p>
 
         {/* CTA Buttons */}

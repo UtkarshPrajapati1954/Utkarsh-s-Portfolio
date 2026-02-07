@@ -37,7 +37,7 @@ export const AboutSection = () => {
             Get to Know <span className="gradient-text">Me Better</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            I'm passionate about creating impactful software solutions
+            Full Stack Developer focused on impactful end-to-end software solutions.
           </p>
         </div>
 
@@ -66,11 +66,12 @@ export const AboutSection = () => {
           <div className="space-y-4 lg:space-y-6 order-2 lg:order-2">
             <div className="prose prose-lg dark:prose-invert max-w-none">
               <p className="text-muted-foreground leading-relaxed text-sm sm:text-base lg:text-lg">
-                I’m a dedicated <span className="text-primary font-medium"> Software Developer </span> from Nadiad who focuses on building well-structured, performance-driven web applications. I approach development with a problem-solving mindset, aiming to deliver solutions that are reliable, scalable, and easy to maintain.
+                I’m a dedicated <span className="text-primary font-medium"> Full Stack Developer </span> from Nadiad , focused on building well-structured, performance-driven web applications. I approach development with a strong problem-solving mindset, aiming to deliver solutions that are reliable, scalable, and easy to maintain.
               </p>
               <p className="text-muted-foreground leading-relaxed text-sm sm:text-base lg:text-lg">
 
-                I primarily work with <span className="text-foreground font-medium"> ASP.NET, C#, and MySQL </span>, and also have experience building responsive and interactive user interfaces using HTML, CSS, Bootstrap, JavaScript, and React. I emphasize clean architecture, optimized performance, and maintainable code while translating complex requirements into practical implementations and continuously improving my technical skills.
+                I primarily work across the full stack using <span className="text-foreground font-medium text-sm leading-tight">
+ ASP.NET, C#, and MySQL </span>, along with <span className="text-foreground font-medium text-sm leading-tight"> HTML, CSS, Bootstrap, JavaScript, React</span> on the frontend. I emphasize clean architecture, optimized performance, and maintainable code while translating complex requirements into practical, end-to-end solutions and continuously improving my technical skills.
               </p>
             </div>
 
