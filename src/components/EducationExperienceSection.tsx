@@ -183,7 +183,7 @@ const timelineData: TimelineItem[] = [
     institution: 'ScriptMatrix Web Services',
     location: 'Vadodara, Gujarat.',
     period: 'Nov-2025 - Jan-2026',
-    description: 'Worked as a Software Developer handling ASP.NET, C#, MySQL Server, HTML, CSS, Bootstrap, and JavaScript, with strong involvement in full-stack development. Contributed to API development and integration (RESTful APIs) for seamless communication between frontend and backend systems. Participated in application architecture design, database management, user workflow implementation, and client communication, while continuously enhancing problem-solving skills, clean coding practices, API security, and team collaboration.',
+    description: 'Worked as a Full Stack Developer, handling ASP.NET, C#, MySQL Server, HTML, CSS, Bootstrap, and JavaScript, with hands-on experience across both frontend and backend development. Contributed to the design, development, and integration of RESTful APIs to enable seamless communication between client-side and server-side systems. Actively participated in application architecture design, database management, user workflow implementation, and client communication, while continuously improving problem-solving abilities, clean coding practices, API security, and team collaboration.',
     achievements: ['Full-Stack Development', 'Web API', 'User Workflow Implementation', 'Clean Coding Practices', 'RESTful API Development & Integration','Problem-Solving', 'Client Communication'],
     images: [
       'https://res.cloudinary.com/dv2pntqsr/image/upload/v1770481962/lio2f8buvxbdjaruegja.jpg'
