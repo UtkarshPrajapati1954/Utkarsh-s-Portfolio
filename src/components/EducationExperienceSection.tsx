@@ -147,7 +147,7 @@ const timelineData: TimelineItem[] = [
     description: 'Worked as a Junior Developer on a part-time, remote basis with SHIVALIK TRANSPORT PTY LTD while pursuing a Bachelor of Engineering in Information Technology. Gained hands-on experience in managing and analysing transport-related data, preparing reports using Microsoft Excel, and working with data from an AWS-hosted MySQL database. Supported web development activities and contributed to an ASP.NET and C#-based system through application support, feature enhancements, and debugging, demonstrating steady technical growth and effective balance between academic and professional responsibilities.',
     achievements: ['Hands-on learning', 'Web Development' ],
     images: [
-      'https://res.cloudinary.com/dylgc2jrt/image/upload/v1769859266/j8xxeptxiu4jmqzqq8te.png'
+      'https://res.cloudinary.com/dbxwiln0a/image/upload/v1773140437/wz7xiaqk0pj37j4b2bqw.png'
     ]
   },
   {

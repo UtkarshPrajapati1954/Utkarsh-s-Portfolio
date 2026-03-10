@@ -9,7 +9,7 @@ const skillCategories = [
   {
     title: 'Backend',
     icon: Server,
-    skills: ['ASP.NET', 'C#', '.NET Framework', 'RESTful APIs'],
+    skills: ['.NET Core [MVC]', 'ASP.NET', 'C#', '.NET Framework', 'RESTful APIs'],
   },
   {
     title: 'Database',
