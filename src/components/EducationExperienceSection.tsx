@@ -147,7 +147,7 @@ const timelineData: TimelineItem[] = [
     description: 'Worked as a Junior Developer on a part-time, remote basis with SHIVALIK TRANSPORT PTY LTD while pursuing a Bachelor of Engineering in Information Technology. Gained hands-on experience in managing and analysing transport-related data, preparing reports using Microsoft Excel, and working with data from an AWS-hosted MySQL database. Supported web development activities and contributed to an ASP.NET and C#-based system through application support, feature enhancements, and debugging, demonstrating steady technical growth and effective balance between academic and professional responsibilities.',
     achievements: ['Hands-on learning', 'Web Development' ],
     images: [
-      'https://res.cloudinary.com/dbxwiln0a/image/upload/v1773140437/wz7xiaqk0pj37j4b2bqw.png'
+      'https://cdn.phototourl.com/free/2026-06-13-f48280d9-612a-47b7-b68d-7d953d864b22.png'
     ]
   },
   {
@@ -160,7 +160,7 @@ const timelineData: TimelineItem[] = [
     description: 'Started a journey of exploration and learning in full-stack web development, gaining hands-on experience with real-world CRM applications, understanding application architecture, databases, user workflows, and improving problem-solving skills, coding practices, and team collaboration.',
     achievements: ['Hands-on learning', 'Architecture understanding' ],
     images: [
-      'https://res.cloudinary.com/dmf29idne/image/upload/v1769339206/hl6gindak0rzpbz2dfvy.jpg'
+      'https://cdn.phototourl.com/free/2026-06-13-cadbe3ed-9562-429c-a47e-e633646eaa9b.jpg'
     ]
   },
   {
@@ -173,7 +173,7 @@ const timelineData: TimelineItem[] = [
     description: 'Software Development Trainee with hands-on experience in ASP.NET, C#, SQL Server, HTML, CSS, Bootstrap, and JavaScript. Gained practical knowledge of full-stack development, application architecture, database handling, and user workflows, while improving problem-solving, coding practices, and team collaboration.',
     achievements: ['Database handling', 'Problem-solving growth', 'Team collaboration'],
     images: [
-      'https://res.cloudinary.com/dmf29idne/image/upload/v1769339210/sp1itldxylkjhd5n2l6o.jpg'
+      'https://cdn.phototourl.com/free/2026-06-13-80409942-156e-43d2-a679-2e2dd3edbc93.jpg'
     ]
   },
   {

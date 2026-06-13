@@ -5,18 +5,30 @@ import { ProjectDetailsModal } from './ProjectDetailsModal';
 
 const projects = [
   {
-    title: 'Task Management System',
-    description:
-      'A scalable Task Management System that enables efficient task creation, assignment, prioritization, and real-time progress tracking. The application features intuitive dashboards and analytics to monitor performance, deadlines, and team productivity, supporting better planning and informed decision-making.',
-    technologies: ['ASP.NET', 'C#', 'MySQL', 'Bootstrap', 'JavaScript'],
-    liveLink: '#',
-    images: [
-      'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop',
-      'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=450&fit=crop',
-    ],
-    details:
-      'A scalable Task Management System that enables efficient task creation, assignment, prioritization, and real-time progress tracking. The application features intuitive dashboards and analytics to monitor performance, deadlines, and team productivity, supporting better planning and informed decision-making.',
-  },
+  title: 'BuilderOne CRM',
+  description:
+    'A comprehensive Builder CRM solution designed to streamline lead management, follow-ups, property listings, customer interactions, and payment tracking. The system helps builders and real estate teams manage their sales pipeline efficiently through role-based access, dashboards, and real-time analytics.',
+
+  technologies: [
+    'ASP.NET Core Web API',
+    'C#',
+    'React.js',
+    'MySQL',
+    'Entity Framework Core',
+    'JWT Authentication',
+    'Bootstrap'
+  ],
+
+  liveLink: 'https://builderone.onrender.com/',
+
+  images: [
+    'https://res.cloudinary.com/dsuyzccs6/image/upload/f_auto,q_auto/Login_js7mdh',
+    'your-image-url-2'
+  ],
+
+  details:
+  'BuilderOne CRM is an enterprise-grade real estate management platform developed to simplify and automate builder sales operations. The system provides end-to-end management of leads, follow-ups, properties, customers, payments, and team activities. Key features include role-based access control, JWT authentication, dashboard analytics, Kanban lead tracking, property media management, payment monitoring, and comprehensive reporting. The application was built using React.js, ASP.NET Core Web API, C#, Entity Framework Core, and MySQL, delivering a responsive, secure, and scalable solution for modern real estate businesses.'
+},
   {
   title: 'Personal Portfolio Website',
   description:

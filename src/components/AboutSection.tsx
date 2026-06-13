@@ -71,7 +71,7 @@ export const AboutSection = () => {
               <p className="text-muted-foreground leading-relaxed text-sm sm:text-base lg:text-lg">
 
                 I primarily work across the full stack using <span className="text-foreground font-medium text-sm leading-tight">
- ASP.NET, C#, and MySQL </span>, along with <span className="text-foreground font-medium text-sm leading-tight"> HTML, CSS, Bootstrap, JavaScript, React</span> on the frontend. I emphasize clean architecture, optimized performance, and maintainable code while translating complex requirements into practical, end-to-end solutions and continuously improving my technical skills.
+ .Net Core, ASP.NET[MVC], C#, and MySQL </span>, along with <span className="text-foreground font-medium text-sm leading-tight"> HTML, CSS, Bootstrap, JavaScript, React</span> on the frontend. I emphasize clean architecture, optimized performance, and maintainable code while translating complex requirements into practical, end-to-end solutions and continuously improving my technical skills.
               </p>
             </div>
 
