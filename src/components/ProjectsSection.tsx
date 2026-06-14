@@ -23,7 +23,11 @@ const projects = [
 
   images: [
     'https://res.cloudinary.com/dsuyzccs6/image/upload/f_auto,q_auto/Login_js7mdh',
-    'your-image-url-2'
+    'https://very-amaranth-mgylsv56.edgeone.app/Dashboard.png',
+    'https://allied-sapphire-dtk2yc36.edgeone.app/Leads.png',
+    'https://builderone.edgeone.app/Properties.png',
+    'https://running-blue-lfrdkbkh.edgeone.app/FollowUp.png',
+    'https://builderone1.edgeone.app/Reports.png'
   ],
 
   details:
