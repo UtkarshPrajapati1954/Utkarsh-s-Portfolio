@@ -40,7 +40,7 @@ const projects = [
   technologies: ['React - Frontend framework', 'TypeScript - Type safety', 'Vite - Build tool', 'Tailwind CSS - Styling', 'shadcn/ui - UI components'],
   liveLink: '#',
   images: [
-    'https://res.cloudinary.com/dhpfn4umb/image/upload/v1769019287/kgrpcenleedlzx6fvxgk.png',
+    'https://utkarshprajapati.edgeone.app/Screenshot%202026-01-21%20234151.png',
     
   ],
   details:
@@ -55,11 +55,11 @@ const projects = [
     liveLink:
       'https://realestatetestingwebsite.on.drv.tw/front-end%20real-estate%20website/desgin/home.html',
     images: [
-      'https://res.cloudinary.com/dhpfn4umb/image/upload/v1768757902/bjbwpgy0pn0b2kaxet0r.png',
-      'https://res.cloudinary.com/dhpfn4umb/image/upload/v1768757990/vdfdatoyekppskall2za.png',
-      'https://res.cloudinary.com/dhpfn4umb/image/upload/v1768758074/ni1lhq9fwktb4cbnm0mc.png',
-      'https://res.cloudinary.com/dhpfn4umb/image/upload/v1768758117/l2xiloth9lwrv3ex89rr.png',
-      'https://res.cloudinary.com/dhpfn4umb/image/upload/v1768758125/c6swkumwqrfg7rcn9eup.png',
+      'https://realestate2.edgeone.app/Screenshot%202026-01-18%20225322.png',
+      'https://realestate3.edgeone.app/Screenshot%202026-01-18%20225445.png',
+      'https://realestate4.edgeone.app/Screenshot%202026-01-18%20225617.png',
+      'https://realestate5.edgeone.app/Screenshot%202026-01-18%20225722.png',
+      'https://realestate6.edgeone.app/Screenshot%202026-01-18%20224444.png',
     ],
     details:
       'This project was developed by our team during the international hackathon "Hack.SVIT", organized at Sardar Vallabhbhai Patel Institute of Technology, Vasad. I was responsible for developing the frontend of the application, where I applied my learning to build a responsive and user-friendly interface. This project greatly enhanced my practical skills and overall learning experience.',
