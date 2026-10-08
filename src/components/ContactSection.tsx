@@ -120,7 +120,7 @@ export const ContactSection = () => {
             </a>
           </Button>
           <Button variant="hero-outline" size="lg" asChild>
-            <a href="https://image2url.com/r2/default/documents/1773141442329-2df675e5-e28c-4c92-b236-582ca38de672.pdf" download>
+            <a href="https://shy-dawn-912.linkyhost.com" download>
               <Download size={18} className="mr-2" />
               Download Resume
             </a>

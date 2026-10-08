@@ -33,6 +33,38 @@ const projects = [
   details:
   'BuilderOne CRM is an enterprise-grade real estate management platform developed to simplify and automate builder sales operations. The system provides end-to-end management of leads, follow-ups, properties, customers, payments, and team activities. Key features include role-based access control, JWT authentication, dashboard analytics, Kanban lead tracking, property media management, payment monitoring, and comprehensive reporting. The application was built using React.js, ASP.NET Core Web API, C#, Entity Framework Core, and MySQL, delivering a responsive, secure, and scalable solution for modern real estate businesses.'
 },
+
+{
+  title: 'Yamuna – Online Food Ordering & Management System',
+  description:
+    'A complete online food ordering and management system developed for Shree Yamuna Farsan Mart. The platform allows customers to browse food categories, add products and add-ons to their cart, schedule pickup orders, make prepaid online payments, and receive digital receipts. An admin management system provides complete control over orders, products, categories, payments, and order processing.',
+
+  technologies: [
+    'Core PHP 8',
+    'MySQL',
+    'Bootstrap 5',
+    'JavaScript',
+    'AJAX',
+    'PDO',
+    'Razorpay'
+  ],
+
+  liveLink: 'https://syfm.in/',
+
+  images: [
+    // Add your Yamuna project screenshots here
+     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/sgusrfbdhzjemtgksxo3',
+     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ptilukwcwtkhxsjhwzef',
+     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/n7xdu3ajaqt2zcybmlly',
+     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ewjrey0zrpsndroo59hj',
+     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/rge0ko3wpnpsvs28skr4'
+  ],
+
+  details:
+    'Yamuna – Online Food Ordering & Management System is a full-stack web application developed for Shree Yamuna Farsan Mart to digitize and streamline its food ordering and order management process. The customer-facing platform provides category-based product browsing, cart management, add-ons, pickup scheduling, prepaid online payments, and digital receipt functionality. The system integrates Razorpay for secure online payments and uses AJAX for dynamic order interactions and notifications. The admin management system enables staff to manage products, categories, orders, payments, and order processing through a centralized dashboard. The application was built using Core PHP 8, MySQL, Bootstrap 5, JavaScript, AJAX, PDO, and Razorpay, providing a responsive and practical solution for day-to-day food ordering operations.'
+},
+
+
   {
   title: 'Personal Portfolio Website',
   description:
@@ -49,7 +81,7 @@ const projects = [
 
   {
     title: 'E-Commerce Real Estate Platform',
-    description:
+    description:  
       'This project was developed by our team during the national hackathon "Hack.SVIT", organized at Sardar Vallabhbhai Patel Institute of Technology, Vasad. I was responsible for developing the frontend of the application, where I applied my learning to build a responsive and user-friendly interface. This project greatly enhanced my practical skills and overall learning experience.',
     technologies: ['React Js', 'HTML5', 'CSS3', 'Bootstrap', 'JavaScript'],
     liveLink:

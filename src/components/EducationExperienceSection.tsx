@@ -182,13 +182,37 @@ const timelineData: TimelineItem[] = [
     title: 'Full Stack Developer [.Net(c#)]',
     institution: 'ScriptMatrix Private Limited',
     location: 'Vadodara, Gujarat.',
-    period: 'Nov-2025 - Jan-2026',
+    period: 'Feb-2025 - Feb-2026',
     description: 'Worked as a Full Stack Developer, handling ASP.NET, C#, MySQL Server, HTML, CSS, Bootstrap, and JavaScript, with hands-on experience across both frontend and backend development. Contributed to the design, development, and integration of RESTful APIs to enable seamless communication between client-side and server-side systems. Actively participated in application architecture design, database management, user workflow implementation, and client communication, while continuously improving problem-solving abilities, clean coding practices, API security, and team collaboration.',
     achievements: ['Full-Stack Development', 'Web API', 'User Workflow Implementation', 'Clean Coding Practices', 'RESTful API Development & Integration','Problem-Solving', 'Client Communication'],
     images: [
       'https://res.cloudinary.com/dv2pntqsr/image/upload/v1770481962/lio2f8buvxbdjaruegja.jpg'
     ]
-  }
+  },
+
+  {
+  id: '6',
+  type: 'experience',
+  title: 'Full Stack Developer [PHP]',
+  institution: 'Perfect Software',
+  location: 'Nadiad, Gujarat.',
+  period: 'April-2026 - Present',
+  description:
+    'Working as a Full Stack Developer with hands-on experience in Core PHP 8, MySQL, JavaScript, Bootstrap 5, HTML5, CSS3, AJAX, and PDO. Developing and maintaining full-stack web applications including frontend interfaces, backend business logic, database integration, and admin panels. Working with REST APIs, JSON, third-party API integrations, Razorpay Payment Gateway, and ABDM APIs for healthcare data exchange and interoperability. Also involved in MySQL database design, SQL queries, CRUD operations, session management, responsive web development, and application testing using Git, GitHub, XAMPP, Composer, VS Code, and Postman.',
+  achievements: [
+    'Full-Stack Development',
+    'Core PHP 8 Development',
+    'RESTful API Development & Integration',
+    'Razorpay Payment Gateway Integration',
+    'MySQL Database Management',
+    'AJAX-Based Applications',
+    'Third-Party API Integration'
+  ],
+  images: [
+    // Add your Perfect Software work/project image here
+     'https://perfectsoft.in/images/logo3.jpg'
+  ]
+}
 ];
 
 export const EducationExperienceSection = () => {

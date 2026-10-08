@@ -4,22 +4,53 @@ const skillCategories = [
   {
     title: 'Frontend',
     icon: Layout,
-    skills: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap', 'Tailwind CSS', 'ReactJS','TypeScript'],
+    skills: [
+      'HTML5',
+      'CSS3',
+      'JavaScript',
+      'React.js',
+      'Bootstrap 5',
+      'AJAX',
+    ],
   },
   {
     title: 'Backend',
     icon: Server,
-    skills: ['.NET Core [MVC]', 'ASP.NET', 'C#', '.NET Framework', 'RESTful APIs'],
+    skills: [
+      'Core PHP 8',
+      'ASP.NET Core',
+      'C#',
+      '.NET MVC',
+      'RESTful APIs',
+      'PDO',
+      'OOP',
+    ],
   },
   {
     title: 'Database',
     icon: Database,
-    skills: ['MySQL', 'Database Design', 'SQL Server'],
+    skills: [
+      'MySQL',
+      'Database Design',
+      'SQL Queries',
+      'Query Optimization',
+    ],
   },
   {
     title: 'Tools & Others',
     icon: Code2,
-    skills: ['Git', 'AI Models', 'Visual Studio', 'Visual Studio Community', 'Swagger','Problem Solving', 'MS Ofiice'],
+    skills: [
+      'Git',
+      'GitHub',
+      'Postman',
+      'Swagger / OpenAPI',
+      'Composer',
+      'XAMPP',
+      'VS Code',
+      'Visual Studio',
+      'Razorpay',
+      'Problem Solving',
+    ],
   },
 ];
 

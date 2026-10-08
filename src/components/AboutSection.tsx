@@ -65,15 +65,34 @@ export const AboutSection = () => {
           {/* Content - compact on mobile */}
           <div className="space-y-4 lg:space-y-6 order-2 lg:order-2">
             <div className="prose prose-lg dark:prose-invert max-w-none">
-              <p className="text-muted-foreground leading-relaxed text-sm sm:text-base lg:text-lg">
-                I’m a dedicated <span className="text-primary font-medium"> Full Stack Developer </span> from Nadiad , focused on building well-structured, performance-driven web applications. I approach development with a strong problem-solving mindset, aiming to deliver solutions that are reliable, scalable, and easy to maintain.
-              </p>
-              <p className="text-muted-foreground leading-relaxed text-sm sm:text-base lg:text-lg">
+  <p className="text-muted-foreground leading-relaxed text-sm sm:text-base lg:text-lg">
+    I’m a dedicated{" "}
+    <span className="text-primary font-medium">Full Stack Developer</span>{" "}
+    from Nadiad, focused on building reliable, scalable, and
+    performance-driven web applications. I approach development with a
+    strong problem-solving mindset, aiming to deliver solutions that are
+    maintainable, efficient, and user-friendly.
+  </p>
 
-                I primarily work across the full stack using <span className="text-foreground font-medium text-sm leading-tight">
- .Net Core, ASP.NET[MVC], C#, and MySQL </span>, along with <span className="text-foreground font-medium text-sm leading-tight"> HTML, CSS, Bootstrap, JavaScript, React</span> on the frontend. I emphasize clean architecture, optimized performance, and maintainable code while translating complex requirements into practical, end-to-end solutions and continuously improving my technical skills.
-              </p>
-            </div>
+  <p className="text-muted-foreground leading-relaxed text-sm sm:text-base lg:text-lg">
+    I primarily work with{" "}
+    <span className="text-foreground font-medium text-sm leading-tight">
+      Core PHP 8, ASP.NET Core, C#, MySQL
+    </span>
+    , along with{" "}
+    <span className="text-foreground font-medium text-sm leading-tight">
+      JavaScript, React.js, Bootstrap, HTML5, and CSS3
+    </span>{" "}
+    for frontend development. I also have experience with{" "}
+    <span className="text-foreground font-medium text-sm leading-tight">
+      RESTful APIs, third-party API integrations, ABDM APIs, AJAX, PDO, and
+      Razorpay
+    </span>
+    . I focus on clean, maintainable code and translating complex business
+    requirements into practical, end-to-end solutions while continuously
+    improving my technical skills.
+  </p>
+</div>
 
             {/* Hobbies */}
             <div className="pt-2 lg:pt-4">
