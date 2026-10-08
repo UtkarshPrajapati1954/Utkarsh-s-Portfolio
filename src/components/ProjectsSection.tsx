@@ -53,11 +53,11 @@ const projects = [
 
   images: [
     // Add your Yamuna project screenshots here
-     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/sgusrfbdhzjemtgksxo3',
-     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ptilukwcwtkhxsjhwzef',
-     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/n7xdu3ajaqt2zcybmlly',
-     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/ewjrey0zrpsndroo59hj',
-     'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/rge0ko3wpnpsvs28skr4'
+     'https://www.image2url.com/r2/default/images/1791482149538-e1e0efc7-7b03-4788-a9b9-1f044aa53f00.png',
+     'https://www.image2url.com/r2/default/images/1791482237396-e3a8f483-193c-40a4-b99f-a1d3c76de989.png',
+     'https://www.image2url.com/r2/default/images/1791482317508-ad92978d-627b-44f5-89ae-0f5e1eaa8764.png',
+     'https://www.image2url.com/r2/default/images/1791482357737-bb44eb4b-518f-4a23-bed6-02ff2d916bd0.png',
+     'https://www.image2url.com/r2/default/images/1791482390561-7cc06cba-1b85-40f5-833c-c0354ba3bf83.png'
   ],
 
   details:
