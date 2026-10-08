@@ -120,7 +120,10 @@ export const ContactSection = () => {
             </a>
           </Button>
           <Button variant="hero-outline" size="lg" asChild>
-  <a href="/resume.pdf" download="Utkarsh-Prajapati-Resume.pdf">
+  <a
+    href="https://shy-dawn-912.linkyhost.com"
+    download="Utkarsh-Prajapati-Resume.pdf"
+  >
     <Download size={18} className="mr-2" />
     Download Resume
   </a>
